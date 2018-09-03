@@ -1,15 +1,30 @@
 I will be talking about Voronoi algorithm that makes this piece. I believe the back is as interesting as the front, the pleats have the property where if you look head on orthographically, the pleats lie orthogonally and trace the lines of the Voronoi graph.
 
-It's also indiscriminate and works for any set of points, allowing you to use any set of points as an input. Here is Orion. These are all the subway stops on Manhattan island in New York City.
+It's also works for any indiscriminate set of points, allowing you to use any set of points as an input. Here is Orion. These are all the subway stops on Manhattan island in New York City.
 
 Before we get too deep, at the heart of this discussion is something very simple:
 - when you bring 3 points together
 - how do we resolve the material that bunches in the middle?
-I'll show that this works for any 3 points.
 
-first some constraints, the pleats we form are going to be perpendicular to edge of the triangle
+Notice in this one the large pleat on the left doesn't do any bunching, that's odd, we're going to come back to that later...
 
-some brief observations, 
+Okay so forget voronoi, forget everything, we are simply bringing 3 points together
+
+1. Pleats are perpendicular to the sides of the triangle
+2. Continue the lines until they reach the center
+3. this is how this was made
+
+It works for any points
+
+1. Same as above
+2. Continue the lines, oops! Something different
+
+CIRCUMCENTER: Geometry people know this. The origami finds it on its own. *TEACHERS* hands-on lesson
+
+Remember the big pleat? correlation
+
+Still just OBSERVATIONS
+Let's actually SOLVE this
 
 ..
 Okay so how do we resolve this?
