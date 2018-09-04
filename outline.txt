@@ -1,0 +1,56 @@
+1-7
+Introduction, Voronoi
+- back is as interesting as front
+- orthogonal pleats
+- indiscriminate set of points
+
+8-11
+Simple
+- bring 3 points together, resolve material
+- pleats lie upright
+
+12-21
+Easy pleat
+- pleats: perpendicular
+- triangle = bunched material
+
+22-29
+obtuse triangle case
+- circumcenter
+- does not work
+
+30-42
+isosceles unit
+- right triangle
+- solution for obtuse
+
+43-47
+Summary
+- affine scale = voronoi
+
+48-55
+- affine scale
+- strip grafting
+- triangles = same 3 points
+
+56-65
+- overlapping
+- obtuse = quadrilateral
+- "overlap" : "overlapped" -- obtuse : ac/r/obt
+
+66-74
+Overlap solution
+- watch out for obtuse edges
+
+75-87
+Handfolding
+- voronoi + axioms
+- Kawasaki
+- tips
+
+88-end
+Conclusions
+- complete solution
+- subset of origamizer 
+- origamizer folds pleats to the side
+- handouts for practice
